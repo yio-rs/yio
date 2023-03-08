@@ -1,0 +1,15 @@
+[package]
+name = "yio"
+version = "0.0.0"
+edition = "2021"
+authors = ["Rusty Rain <y@liu.mx>"]
+description = "Yet another IO runtime"
+license = "MIT/Apache-2.0"
+documentation = "https://docs.rs/yio"
+repository = "https://github.com/retty-io/yio"
+homepage = "https://retty.io"
+keywords = ["networking", "protocols"]
+categories = [ "network-programming", "asynchronous" ]
+
+
+[dependencies]
